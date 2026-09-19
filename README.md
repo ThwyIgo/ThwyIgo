@@ -11,7 +11,7 @@ I love to learn new languages (programming or not).
 
 # Skills
 - I'm good at  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,arch,debian,nixos,c,cpp,cs,java,haskell,python,spring,cmake,maven,git,docker,keycloak&titles=true&perline=10)  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,arch,debian,nixos,c,cpp,cs,java,haskell,python,spring,cmake,maven,git,docker,keycloak,postgresql&titles=true&perline=10)  
 and POSIX sh (no icon for it).  
 - I'm kinda good at  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,bash,lua,flask,pandas,opencv,numpy,gradle,github,bitbucket,mongodb&titles=true)  
