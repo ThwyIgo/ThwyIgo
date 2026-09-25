@@ -18,10 +18,9 @@ and POSIX sh (no icon for it).
 - Generic tooling I use  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=zed,emacs,vscodium,idea,pycharm,postman,blender,latex&titles=true)  
 
-# Interests I'm not that good at (yet!)
+# Other interests
 - Cybersecurity
-- Cloud
-- GitHub actions
+- DevOps
 - Games
 
 # How to reach me
